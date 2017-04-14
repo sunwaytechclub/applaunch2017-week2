@@ -2,7 +2,7 @@
 
 ## Week 2 Resources
 * Session 1: JavaScript
-  * `basic_practice`
+  * [repl](https://repl.it)
 * Session 2: DOM
   * `prompt_and_display`
   * `html_elements_with_js`
