@@ -4,9 +4,11 @@
 
 // Create heading element .
 
+//Append heading element to body
+
 // Create Order List Element.
 
 // Loop through your shopping list
 // and create li element here.
 
-// Append created element to the body.
+// Append ordered list to the body
