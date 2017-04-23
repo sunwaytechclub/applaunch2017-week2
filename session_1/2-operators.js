@@ -1,4 +1,6 @@
 // console log the results
+
+// initialize and declare values for comparing and manipulating
 // var a
 // var b
 
